@@ -13,5 +13,5 @@
 - Contribute to open-source  
 
 ## 📫 Connect With Me
-- LinkedIn: [your link]  
+- LinkedIn: https://www.linkedin.com/in/raviteja-gochipatala-2ab488259/
 - Email: gochipatalaraviteja@gmail.com  
