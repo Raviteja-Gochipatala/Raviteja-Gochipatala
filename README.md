@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Raviteja Gochipatala
 
 ## 🕵️ About Me
 - 🔐 Passionate about **Cybersecurity & Ethical Hacking**
